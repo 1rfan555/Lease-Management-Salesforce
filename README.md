@@ -5,11 +5,13 @@
 # Users
 
 1.Director(System Administrator)
+
 	-Director will add buildings and their units
 	-will approve/reject contracts created by coordinator
 	-can search contracts by building/vender name
 
 2.Coordinator
+
 	-will add venders into the system
 	-create contracts based on bulding and their units
 	-will submit for approval
@@ -18,11 +20,12 @@
 	
 # Standard/Custom Objects
 
-1.Standard Objects:
-	-Contact
 
-2.Custom Objects:
-	-Buildings
-	-units
-	-contract
+	1.Standard Objects:
+		-Contact
+
+	2.Custom Objects:
+		-Buildings
+		-units
+		-contract
 	
