@@ -47,7 +47,7 @@ Inamdar Brokers owns multiple buildings. They lease out units in their buildings
 
 # VF pages
 
-	created vfpage for adding bulding and their units.
+	created vfpage for adding bulding and their units(Faced problems while adding multiple units).
 	created vfpage for contract search by vender/building name.
 	used slds in vfpage.
 	
