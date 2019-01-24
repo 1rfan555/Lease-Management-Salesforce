@@ -59,7 +59,7 @@ Inamdar Brokers owns multiple buildings. They lease out units in their buildings
 	
 # Triggers
 
-	written trigger for validations on duplications(Total 3) and field update after approval of contract.
+	wrote trigger for validations on duplications(Total 3) and field update after approval of contract.
 	
 
 # Test classes
