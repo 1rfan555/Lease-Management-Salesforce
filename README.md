@@ -64,7 +64,7 @@ Inamdar Brokers owns multiple buildings. They lease out units in their buildings
 
 # Test classes
 
-	covered total 45% code and still working on it.
+	covered total 82% code and still working on it.
 	
 # Email templates
 
